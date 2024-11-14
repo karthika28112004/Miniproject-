@@ -1,58 +1,57 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Chronic Obstructive Pulmonary Disease Prediction
+Chronic Obstructive Pulmonary Disease (COPD) is a chronic inflammatory lung disease that causes obstructed airflow from the lungs. It's primarily caused by long-term exposure to irritating gases or particulate matter, most commonly from cigarette smoke.
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Our COPD prediction project using an artificial neural network (ANN) involves training a model to recognize patterns in input data, such as medical metrics, that are associated with COPD. The ANN is designed to learn complex relationships in the data by adjusting weights through multiple layers of interconnected nodes
 
 ## Features
 <!--List the features of the project as shown below-->
 - Implements advance neural network method.
-- A framework based application for deployment purpose.
+- Uses Python for model development 
 - High scalability.
 - Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Trains the model with new data, allowing for ongoing improvement in prediction accuracy and adaptability to various datasets.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Software and Libraries: Python programming language for implementing the project
+* Dataset: Labeled dataset with patients data relevant to COPD
+* Model Training and Evaluation Tools: Validation and testing tools to evaluate the ANN and object detection model's accuracy.
+* Development Environment: Jupyter Notebook, VS Code, or other IDEs that support Python and deep learning libraries.
+* Internet Access: For downloading model weights, dataset, and dependencies from Google Drive (if integrated) and other sources.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![WhatsApp Image 2024-11-14 at 19 02 59_0381dbf3](https://github.com/user-attachments/assets/1f9c25ef-5036-4abf-ae4b-48f1d3263330)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Accuracy
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![image](https://github.com/user-attachments/assets/029ef251-49fc-44ad-801c-fed9adec8329)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Website
+![WhatsApp Image 2024-11-14 at 19 02 59_0381dbf3](https://github.com/user-attachments/assets/afcdeabf-5797-4640-b057-d8fee96d51dc)
 
-Detection Accuracy: 96.7%
+Detection Accuracy: 97.5%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The trained Artificial Neural Network (ANN) model would predict the likelihood of COPD in a given dataset. Evaluate the performance of the model using metrics such as accuracy, precision, recall, and F1 score to determine its effectiveness.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. Eun-A Choi, Ji-Won Kim, Guemkyung Nah, Woojin Kim, Kwangha Yoo, Young-Youl Kim,”Prediction of COPD severity based on clinical data using Machine Learning”,IEEE, December 2021
+2. Endashaw Amsalu Melese, Evarist Nabaasa, Matiwos Tekalign Wondemagegn, Safari Yonasi, Gemechis Melkamu Negasa, “Deep Learning Based Algorithms for Detecting Chronic Obstructive Pulmonary Disease”,IEEE,May 2022
+3. Asha Sara Thomas, E. Sasikala “Identifying Lung Cancer and Chronic Obstructive Pulmonary Diseases using Residual Neural Network”,IEEE,May 2021
+
 
 
 
